@@ -17,7 +17,7 @@ PDF files contain subsets of the required fonts embedded into the document. Beca
 
 In the American English pages, most comic lettering is set in BlamBot’s Smack Attack and Smack Attack Bold, page titles are in Microsoft’s Haettenschweiler, and additional text on Sparky’s pages are in set in BlamBot’s BadaBoom. Staff notation makes use of MakeMusic’s Maestro notation font.
 
-Because the free version of Smack Attack does not include accented characters, many of the non-English. pages use BlamBot’s Might Makes Right for lettering.
+Because the free version of Smack Attack does not include accented characters, many of the non-English pages use BlamBot’s Might Makes Right for lettering.
 
 **Translations**
 
