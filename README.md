@@ -5,7 +5,7 @@ by Toby W. Rush
 
 This is collection of educational music theory resources originally released under a CC-BY-NC-ND license, which I am now making available under a CC-BY-NC 4.0 license, allowing others to use, edit, and adapt freely.
 
-These documents were originally written in American English, and are located in the /en-us/ directory. Each file is available in three different formats:
+The original documents, composed in American English, and are located in the en-us/ directory. Each file is available in three different formats:
 
 - Adobe Illustrator (.ai)
 - Portable Document Format (.pdf)
