@@ -11,6 +11,8 @@ The original documents, composed in American English, and are located in the en-
 - Portable Document Format (.pdf)
 - Scalable Vector Graphics (.svg)
 
+These pages were originally created in Adobe Illustrator, but you can edit them in any vector graphics program (such as Inkscape, Vecteezy, or many others) by opening the SVG version.
+
 **Fonts**
 
 PDF files contain subsets of the required fonts embedded into the document. Because many of the fonts are not available under a Creative Commons license, they are not included in this package; to open or edit the Illustrator or SVG files, you must procure the necessary fonts, or replace them with other fonts.
